@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyRecipes</string>
+    <string name="all_tab">All</string>
+    <string name="breakfast_tab">Breakfast</string>
+    <string name="lunch_tab">Lunch</string>
+    <string name="dinner_tab">Dinner</string>
+    <string name="add_name_hint">Recipe name</string>
+    <string name="add_ingredients_hint">Add ingredients</string>
+    <string name="add_instruction_hint">Write instruction</string>
+    <string name="add_title">Create a new recipe</string>
+    <string name="choose_category">Choose at least 1 category</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
